@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate web developer currently pursuing my B.Tech from SRM Institute of Science and Technology, in my third year. I have a strong foundation in web development and I'm enthusiastic about creating efficient and user-friendly web experiences.
+I'm a passionate web developer currently pursuing my B.Tech from SRM Institute of Science and Technology, in my final year. I have a strong foundation in web development and I'm enthusiastic about creating efficient and user-friendly web experiences.
 
 - 🎓 Pursuing B.Tech in Computer Science and engineering at SRM Institute of Science and Technology.
 - 💼 Currently exploring opportunities for internships and collaborations.
