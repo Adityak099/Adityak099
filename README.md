@@ -1,13 +1,56 @@
-# Hello, I'm Kumar Aditya 👋
+# Hi there, I'm Kumar Aditya! 👋
 
-## About Me
+## 🚀 About Me
+I'm a final-year **B.Tech Computer Science student at SRM IST Ghaziabad**, passionate about **software engineering, web development, machine learning, and data analytics**. I enjoy working on **AI-powered projects, system design, and building scalable applications**.
 
-I'm a passionate web developer currently pursuing my B.Tech from SRM Institute of Science and Technology, in my final year. I have a strong foundation in web development and I'm enthusiastic about creating efficient and user-friendly web experiences.
+## 💡 What I Do
+- 🔹 **Software Engineering Enthusiast** | Preparing to land a role in a top tech company
+- 🔹 **Full-Stack Web Developer** | Experienced with **Next.js, Node.js, MongoDB**
+- 🔹 **Machine Learning Practitioner** | Published a research paper on **predicting cardiovascular diseases using ML**
+- 🔹 **Data Analytics Learner** | Taking courses on **Mathematics for Machine Learning, Statistics, and IBM Excel Basics for Data Analysis**
+- 🔹 **System Design & DBMS** | Learning to build scalable and efficient architectures
 
-- 🎓 Pursuing B.Tech in Computer Science and engineering at SRM Institute of Science and Technology.
-- 💼 Currently exploring opportunities for internships and collaborations.
-- 🌱 Continuously learning and improving my skills to stay updated with the latest web technologies.
-- ⚡ Fun fact: I believe in the power of open source and collaboration in driving innovation.
+## 🛠️ Technologies & Tools
+- **Languages:** C++, Python, JavaScript, SQL
+- **Web Development:** Next.js, React.js, Node.js, Express.js
+- **Databases:** MongoDB, MySQL
+- **AI/ML:** Scikit-Learn, TensorFlow, Pandas, NumPy
+- **Other Skills:** DSA, DBMS, System Design, Cloud Computing, Aptitude Preparation
+
+## 📌 Projects
+### 🏪 [ApnaBazar](https://github.com/Adityak099/ecommerce_web) (E-commerce Platform)
+- Built using **Next.js** and deployed on **Vercel**
+- Features dynamic product listings, secure authentication, and seamless checkout
+
+### 🏥 Predicting Cardiovascular Disorders Using ML
+- Published research paper on **Microsoft CMT**
+- Utilized **ML algorithms** to predict cardiovascular diseases with high accuracy
+
+### 🤖 AI-powered Chatbot & Event Booking Platform
+- Developed a chatbot platform for seamless user interactions
+- Created an event booking system using **Next.js** to connect workers and employers
+
+### 🦷 AI-based Dental Clinic Reservation ("Geeta")
+- Built an **AI agent** to interact with patients and manage appointments efficiently
+
+## 📚 Learning Journey
+Currently focusing on:
+- 📌 **System Design** | Scalable architectures & distributed systems
+- 📌 **Software Engineering** | Preparing for top company interviews
+- 📌 **React Native** | Expanding mobile app development skills
+- 📌 **Genomics Project** | Exploring AI applications in biotechnology
+
+## 📈 Career Goals
+- 🔹 Crack tech interviews & secure a **software engineering role**
+- 🔹 Work on AI-driven projects in **healthcare, fintech, or automation**
+- 🔹 Build scalable web applications with **cutting-edge technologies**
+
+## 📫 Let's Connect!
+- 📧 Email: [kraditya.1222@gmail.com](mailto:kraditya.1222@gmail.com)
+- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/kumar-aditya-109506237/)
+- 🐦 Twitter: [X(Twitter)](https://x.com/kr_adi01)
+- 💻 GitHub: [GitHub](https://github.com/Adityak099)
+
 
 ## Skills
 
@@ -30,18 +73,6 @@ Here are some of the skills and technologies I'm familiar with:
 - **Tools:**
 - [![My Skills](https://skillicons.dev/icons?i=postman,vscode,webstorm,figma,blender,docker&perline=7)](https://skillicons.dev)
 
-
-## Projects
-
-I've worked on a variety of projects, showcasing my skills in web development. Some of my notable projects include:
-
-- 📚 Full Stack Portfolio Blog Website (On Going Project ): This project includes authentication , authorization with jwt and it includes a api server for data fertching and all other crud opertaion on the mongoDb database from nextjs web application.
-- 🎥 Video Content Management: Developing an advanced video platform with seamless user authentication, video uploading, thumbnail management, playlist creation, and engaging user interaction features.
-
-## Contact Me
-
-- LinkedIn: https://www.linkedin.com/in/kumar-aditya-109506237/
-- Email: adityarock7301@gmail.com
 
 Let's connect and collaborate to create amazing web experiences!
 
