@@ -26,12 +26,6 @@ I'm a final-year **B.Tech Computer Science student at SRM IST Ghaziabad**, passi
 - Published research paper on **Microsoft CMT**
 - Utilized **ML algorithms** to predict cardiovascular diseases with high accuracy
 
-### 🤖 AI-powered Chatbot & Event Booking Platform
-- Developed a chatbot platform for seamless user interactions
-- Created an event booking system using **Next.js** to connect workers and employers
-
-### 🦷 AI-based Dental Clinic Reservation ("Geeta")
-- Built an **AI agent** to interact with patients and manage appointments efficiently
 
 ## 📚 Learning Journey
 Currently focusing on:
