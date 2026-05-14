@@ -77,21 +77,22 @@ Currently exploring and improving my skills in:
 Here are some of the skills and technologies I'm familiar with:
 
 - **Programming Languages:**
-- [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,javascript,sql&perline=7)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,javascript,sql&perline=7)](https://skillicons.dev)
 
 - **Frontend Development:**
-- [![My Skills](https://skillicons.dev/icons?i=react,next,html,css,tailwind,bootstrap,js&perline=7)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,next,html,css,tailwind,bootstrap,js&perline=7)](https://skillicons.dev)
 
 - **Backend Development:**
-- [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs&perline=7)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs&perline=7)](https://skillicons.dev)
+  
 - **Database:**
-- [![My Skills](https://skillicons.dev/icons?i=mongodb,redis,postgres,mysql&perline=7)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=mongodb,redis,postgres,mysql&perline=7)](https://skillicons.dev)
 
 - **Version Control:**
-- [![My Skills](https://skillicons.dev/icons?i=git,github&perline=7)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,github&perline=7)](https://skillicons.dev)
 
 - **Tools:**
-- [![My Skills](https://skillicons.dev/icons?i=postman,vscode,webstorm,figma,blender,docker&perline=7)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=postman,vscode,webstorm,figma,blender,docker&perline=7)](https://skillicons.dev)
 
 
 Let's connect and collaborate to create amazing web experiences!
