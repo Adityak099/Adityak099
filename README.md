@@ -2,7 +2,6 @@
 
 ## 🚀 About Me
 I'm a **2025 B.Tech Computer Science graduate from SRM IST Ghaziabad** who genuinely enjoys building things for the web. I love working on **full-stack applications**, exploring new technologies, and turning ideas into real products using tools like **Next.js, React, Node.js, and MongoDB**. I'm passionate about creating smooth user experiences, writing clean code, and continuously improving as a developer every day.
-**.
 
 ## 💡 What I Do
 * 🔹 **Full-Stack Developer** | Building modern and scalable web applications with **Next.js, React, Node.js, and MongoDB**
@@ -78,7 +77,7 @@ Currently exploring and improving my skills in:
 Here are some of the skills and technologies I'm familiar with:
 
 - **Programming Languages:**
-- [![My Skills](https://skillicons.dev/icons?i=c,cpp,python&perline=7)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,javascript,sql&perline=7)](https://skillicons.dev)
 
 - **Frontend Development:**
 - [![My Skills](https://skillicons.dev/icons?i=react,next,html,css,tailwind,bootstrap,js&perline=7)](https://skillicons.dev)
@@ -86,7 +85,7 @@ Here are some of the skills and technologies I'm familiar with:
 - **Backend Development:**
 - [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs&perline=7)](https://skillicons.dev)
 - **Database:**
-- [![My Skills](https://skillicons.dev/icons?i=mongodb,redis,postgreSQL,mysql&perline=7)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=mongodb,redis,postgres,mysql&perline=7)](https://skillicons.dev)
 
 - **Version Control:**
 - [![My Skills](https://skillicons.dev/icons?i=git,github&perline=7)](https://skillicons.dev)
