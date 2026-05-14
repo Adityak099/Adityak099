@@ -1,43 +1,70 @@
 # Hi there, I'm Kumar Aditya! 👋
 
 ## 🚀 About Me
-I'm a final-year **B.Tech Computer Science student at SRM IST Ghaziabad**, passionate about **software engineering, web development, machine learning, and data analytics**. I enjoy working on **AI-powered projects, system design, and building scalable applications**.
+I'm a **2025 B.Tech Computer Science graduate from SRM IST Ghaziabad** who genuinely enjoys building things for the web. I love working on **full-stack applications**, exploring new technologies, and turning ideas into real products using tools like **Next.js, React, Node.js, and MongoDB**. I'm passionate about creating smooth user experiences, writing clean code, and continuously improving as a developer every day.
+**.
 
 ## 💡 What I Do
-- 🔹 **Software Engineering Enthusiast** | Preparing to land a role in a top tech company
-- 🔹 **Full-Stack Web Developer** | Experienced with **Next.js, Node.js, MongoDB**
-- 🔹 **Machine Learning Practitioner** | Published a research paper on **predicting cardiovascular diseases using ML**
-- 🔹 **Data Analytics Learner** | Taking courses on **Mathematics for Machine Learning, Statistics, and IBM Excel Basics for Data Analysis**
-- 🔹 **System Design & DBMS** | Learning to build scalable and efficient architectures
+* 🔹 **Full-Stack Developer** | Building modern and scalable web applications with **Next.js, React, Node.js, and MongoDB**
+* 🔹 **Problem Solver** | Passionate about creating real-world projects and improving my development skills every day
+* 🔹 **Tech Explorer** | Interested in **software engineering, system design, databases, and modern web technologies**
+* 🔹 **Continuous Learner** | Exploring areas like **machine learning, data analytics, and scalable application architecture**
+* 🔹 **Open to Opportunities** | Actively working towards becoming a better engineer and growing in the tech industry 🚀
+
 
 ## 🛠️ Technologies & Tools
-- **Languages:** C++, Python, JavaScript, SQL
-- **Web Development:** Next.js, React.js, Node.js, Express.js
-- **Databases:** MongoDB, MySQL
-- **AI/ML:** Scikit-Learn, TensorFlow, Pandas, NumPy
-- **Other Skills:** DSA, DBMS, System Design, Cloud Computing, Aptitude Preparation
+- **Languages:** C++, JavaScript, Python, SQL
+- **Frontend:** React.js, Next.js, HTML, CSS, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, MySQL, PostgreSQL, Redis
+- **Tools & Platforms:** Git, GitHub, Vercel, VS Code
+- **Core Concepts:** DSA, DBMS, OOPs, System Design 🚀
+
 
 ## 📌 Projects
-### 🏪 [ApnaBazar](https://github.com/Adityak099/ecommerce_web) (E-commerce Platform)
-- Built using **Next.js** and deployed on **Vercel**
-- Features dynamic product listings, secure authentication, and seamless checkout
+
+### 🛒 [FreshMart Grocery Application](https://freshmart-ecom.vercel.app/) - E-Commerce Web Application
+
+* Built a scalable grocery delivery platform using **Next.js, React.js, Node.js, MongoDB, PostgreSQL, and Redis**
+* Developed a responsive and optimized UI that improved usability and reduced page load time
+* Integrated **Razorpay payment gateway** with secure checkout and webhook-based payment verification
+* Currently working on **real-time order tracking** and fast grocery delivery features
+
+### 🏪 [ApnaBazar](https://github.com/Adityak099/ecommerce_web) — E-Commerce Web App
+
+* Developed a modern full-stack e-commerce application using **Next.js, React, Node.js, and MongoDB**
+* Implemented features like **user authentication, product management, cart system, and responsive UI**
+* Deployed the platform on **Vercel** with focus on performance and seamless user experience
+
+### 🏬 [Store Rater](https://storeraterfrontend.vercel.app/) - A rating application
+
+* Developed a full-stack store rating platform using **React.js, Node.js, Express.js, and PostgreSQL**
+* Implemented secure **JWT-based multi-role authentication (RBAC)** for Admins, Store Owners, and Users
+* Built complete **Store CRUD operations**, dashboards, analytics, and review/rating systems
+* Added advanced **search, filtering, and role-based management features**
+
+### 💳 Wallet Wiz — Personal Finance Tracker
+
+* Built a finance management web app to help users **track expenses, manage budgets, and monitor transactions**
+* Designed an intuitive dashboard with clean UI and efficient state management
+* Focused on creating a smooth and user-friendly experience for daily financial tracking
 
 ### 🏥 Predicting Cardiovascular Disorders Using ML
-- Published research paper on **Microsoft CMT**
-- Utilized **ML algorithms** to predict cardiovascular diseases with high accuracy
 
+* Worked on a machine learning project focused on predicting cardiovascular diseases using healthcare datasets
+* Applied various ML algorithms, data preprocessing, and model evaluation techniques
+* Research paper published through the **Microsoft CMT** conference submission system 🚀
 
 ## 📚 Learning Journey
-Currently focusing on:
-- 📌 **System Design** | Scalable architectures & distributed systems
-- 📌 **Software Engineering** | Preparing for top company interviews
-- 📌 **React Native** | Expanding mobile app development skills
-- 📌 **Genomics Project** | Exploring AI applications in biotechnology
 
-## 📈 Career Goals
-- 🔹 Crack tech interviews & secure a **software engineering role**
-- 🔹 Work on AI-driven projects in **healthcare, fintech, or automation**
-- 🔹 Build scalable web applications with **cutting-edge technologies**
+Currently exploring and improving my skills in:
+
+* 📌 **System Design & Backend Architecture** | Building scalable and efficient applications
+* 📌 **AI & Machine Learning** | Learning about LLMs, AI integrations, and intelligent systems
+* 📌 **Full-Stack Development** | Deepening my expertise in modern web technologies and performance optimization
+* 📌 **React Native** | Expanding into cross-platform mobile app development
+* 📌 **Cloud & Databases** | Understanding deployment, caching, and scalable database management
+
 
 ## 📫 Let's Connect!
 - 📧 Email: [kraditya.1222@gmail.com](mailto:kraditya.1222@gmail.com)
@@ -59,7 +86,7 @@ Here are some of the skills and technologies I'm familiar with:
 - **Backend Development:**
 - [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs&perline=7)](https://skillicons.dev)
 - **Database:**
-- [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql&perline=7)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=mongodb,redis,postgreSQL,mysql&perline=7)](https://skillicons.dev)
 
 - **Version Control:**
 - [![My Skills](https://skillicons.dev/icons?i=git,github&perline=7)](https://skillicons.dev)
