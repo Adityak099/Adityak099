@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a **2025 B.Tech Computer Science graduate from SRM IST Ghaziabad** who genuinely enjoys building things for the web. I love working on **full-stack applications**, exploring new technologies, and turning ideas into real products using tools like **Next.js, React, Node.js, and MongoDB**. I'm passionate about creating smooth user experiences, writing clean code, and continuously improving as a developer every day.
 
-# [Link to my Portfolio](https://kraditya-portfolio.vercel.app/)
+### [Link to my Portfolio](https://kraditya-portfolio.vercel.app/)
 
 ## 💡 What I Do
 * 🔹 **Full-Stack Developer** | Building modern and scalable web applications with **Next.js, React, Node.js, and MongoDB**
